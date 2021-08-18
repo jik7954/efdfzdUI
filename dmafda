@@ -1,3 +1,4 @@
+local a=game.Players.LocalPlayer;local b=a:GetRankInGroup(10514067)if b<=1 then a:Kick("이 스크립트를 사용하시려면 그룹에 가입하셔야 합니다. 그룹 링크 : https://www.roblox.com/groups/10514067/Salesian-Society#!/about")end
 _9kzXIKOBW6W6aFOI, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
